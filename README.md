@@ -16,4 +16,4 @@ Apaixonado pela tecnologia e foco em aprender e aplicar novas tecnologias e o mu
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCaxiado&theme=holi)](https://github.com/DiogoCaxiado/github-readme-stats)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCaxiado&theme=holi&custom_title=Principais%20%Linguagens)
