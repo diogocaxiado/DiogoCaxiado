@@ -1,16 +1,23 @@
-# Olá! Eu sou o Diogo! ✌️
-- Minha jornada na programação começou em 2022, quando ingressei no Curso de [Técnico em Informática](https://www.sp.senac.br/) no Senac. Desde então, fiquei apaixonado por esse mundo fascinante da tecnologia e da codificação.
-- Atualmente, estou cursando a [Cubos Academy](https://cubos.academy/) em paralelo com meu curso no [Senac Santos](https://www.sp.senac.br/web/senac-santos), buscando aprimorar ainda mais meu conhecimento e habilidades em desenvolvimento.
+# Olá! Eu sou o Diogo! 👋✨
 
-## Hobbies e Interesses
-- Apaixonado pela tecnologia e ansioso para aplicar novas tecnologias e conhecer melhor o mundo da programação! :earth_americas:
-- Amante de animais, principalmente se for um cachorro caramelo com mistura de labrador com vira-lata igual o meu cão Spike! :dog:
-- Nas horas vagas explorador dos jogos que possuem os estilos MMORPG e FPS! :video_game:
+🚀 Minha jornada no mundo da programação começou em 2022, quando entrei de cabeça no Curso de Técnico em Informática no Senac. Desde então, estou mergulhado nesse universo fascinante da tecnologia e da codificação.
 
-## :bell: Venha se conectar comigo!
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/diogocaxiado/)
+🎓 Sou formado em Desenvolvimento de Software - Full Stack pela incrível [Cubos Academy](https://cubos.academy/). Foi uma jornada intensa e cheia de aprendizados que me prepararam para encarar desafios cada vez maiores.
 
-## :mechanical_arm: Linguagens e ferramentas
-![tecnologias](https://skillicons.dev/icons?i=html,css,react,javascript,typescript,nodejs,php,scss,postgres,express,bootstrap,figma,cs&theme=dark)
+📚 Atualmente, estou dando um novo gás na minha formação, cursando Técnico em Informática no [Senac Santos](https://www.sp.senac.br/web/senac-santos). Estou sempre em busca de aprimorar meus conhecimentos e habilidades em desenvolvimento, porque afinal, nunca se sabe o que o mundo da tecnologia nos reserva, não é mesmo? 💡
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoCaxiado&theme=holi&custom_title=Principais%20%Linguagens)
+## :chart_with_upwards_trend: Estatísticas do GitHub
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogocaxiado&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogocaxiado&layout=compact&theme=radical" />
+</div>
+
+## :mechanical_arm: Conhecimentos
+![tech](https://skillicons.dev/icons?i=html,css,react,javascript,typescript,nodejs,php,cs&theme=dark)
+
+## :speech_balloon: Venha se conectar comigo!
+
+<div>
+  <a href="mailto:caxiadodev@gmail.com" target="_blank"><img height="38em" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
+  <a href="https://www.linkedin.com/in/diogocaxiado" target="_blank"><img height="38em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
+</div
